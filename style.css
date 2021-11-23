@@ -169,6 +169,7 @@ main {
   letter-spacing: var(--spacing);
   color: var(--clr-grey-1);
 }
+
 .question-btn {
   font-size: 1.5rem;
   background: transparent;
